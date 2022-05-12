@@ -1,6 +1,6 @@
 ### Hi there, I am Susmit aka [Kal-El]👋
 
-- 🔭 I’m currently working as Java FSE with React.
+- 🔭 I’m currently working as Java FSE Dev with React.
 - 🌱 I’m currently learning Spring Framework.
 - 👯 I’m looking to collaborate with Web Development, ML, DL and open Source Projects.
 - 🥅 Goals: Explore more technologies.
