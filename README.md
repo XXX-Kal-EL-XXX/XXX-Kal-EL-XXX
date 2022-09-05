@@ -1,4 +1,4 @@
-### Hi there, I am Susmit aka [Kal-El]👋
+### Hi there, I am <b>SusmiT</b> 👋
 
 - 🔭 I’m currently working as Java FSD with React.
 - 🌱 I’m currently learning Spring Framework.
